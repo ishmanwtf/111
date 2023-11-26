@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-import logo from './logowide.png';
-import './App.css';
-
-function App() {
-    return (
-
-
-        <
-        img src = { logo }
-        className = "App-logo"
-        alt = "logo" / >
-
-
-    );
-}
-
-export default App;
-=======
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -31,4 +12,3 @@ ReactDOM.render(
 );
 
 reportWebVitals();
->>>>>>> 36991170c561780d2fc3c01724219e296e65b0fc
